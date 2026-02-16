@@ -1,6 +1,6 @@
 👋 Hi, I'm Hariharan
 
-🎯 Data Analyst | Python | SQL | Machine Learning | AWS | Power BI
+🎯 Data Science Data Analyst | Python | SQL | Machine Learning | AWS | Power BI
 📍 Open to opportunities in Bangalore, Hyderabad, Chennai
 
 🚀 Featured Projects
