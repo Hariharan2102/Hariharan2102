@@ -1,23 +1,31 @@
-Hi, I'm Hariharan 👋
+👋 Hi, I'm Hariharan
 
-Data Analyst / Data Science Enthusiast skilled in Python, SQL, Machine Learning, AWS, and Power BI.
+🎯 Data Analyst | Python | SQL | Machine Learning | AWS | Power BI
+📍 Open to opportunities in Bangalore, Hyderabad, Chennai
 
-🚀 Projects
+🚀 Featured Projects
 🔹 AI Resume Job Matcher
 
-AWS-based resume-job matching system using Textract, Lambda, and Bedrock embeddings.
-Tech: Python, AWS, Streamlit
+Built an AI-powered resume analysis and job recommendation system using AWS (S3, Lambda, Textract, Bedrock). Implemented semantic similarity using cosine similarity and deployed using Streamlit.
+
+Tech Stack: Python, AWS, Machine Learning, Streamlit
 
 🔹 Brain Tumor MRI Classification
 
-CNN-based deep learning model achieving 92% accuracy.
-Tech: Python, TensorFlow, Deep Learning
+Developed a CNN-based deep learning model achieving 92%+ accuracy using transfer learning and data augmentation.
+
+Tech Stack: Python, TensorFlow, Deep Learning
 
 🔹 Luxury Housing Sales Analytics
 
-Processed 100K+ records and built Power BI dashboard.
-Tech: Python, MySQL, Power BI
+Processed and analyzed 100,000+ property records and built interactive Power BI dashboards.
 
-📫 Connect with me
+Tech Stack: Python, MySQL, Power BI
+
+🛠 Skills
+
+Python | SQL | Machine Learning | Deep Learning | AWS | Power BI | Pandas | NumPy
+
+📫 Connect With Me
 
 LinkedIn: (https://www.linkedin.com/in/hariharan-a-s-910b3a39)
