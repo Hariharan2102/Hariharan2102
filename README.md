@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Hariharan 👋
 
-<!--
-**Hariharan2102/Hariharan2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst / Data Science Enthusiast skilled in Python, SQL, Machine Learning, AWS, and Power BI.
 
-Here are some ideas to get you started:
+🚀 Projects
+🔹 AI Resume Job Matcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AWS-based resume-job matching system using Textract, Lambda, and Bedrock embeddings.
+Tech: Python, AWS, Streamlit
+
+🔹 Brain Tumor MRI Classification
+
+CNN-based deep learning model achieving 92% accuracy.
+Tech: Python, TensorFlow, Deep Learning
+
+🔹 Luxury Housing Sales Analytics
+
+Processed 100K+ records and built Power BI dashboard.
+Tech: Python, MySQL, Power BI
+
+📫 Connect with me
+
+LinkedIn: (https://www.linkedin.com/in/hariharan-a-s-910b3a39)
